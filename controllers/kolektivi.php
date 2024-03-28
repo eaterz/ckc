@@ -8,7 +8,7 @@ $page_title = "Posts";
 
 $db = new Database($config);
 
-$query_string = "SELECT * FROM notikumi";
+$query_string = "SELECT * FROM kolektivi";
 
 $params = [];
 
